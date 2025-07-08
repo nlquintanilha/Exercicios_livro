@@ -7,3 +7,6 @@ São apresentados os diferentes tipos de valores, como números inteiros (ex: 1,
 O conceito de variável é introduzido como um nome que se refere a um valor. A instrução de atribuição (=) é explicada como a forma de criar variáveis e associar um valor a elas. Uma vez que uma variável é definida, ela pode ser usada em expressões no lugar do valor que ela representa. Isso permite que os programas sejam mais flexíveis e fáceis de modificar. 
 
 O capítulo também introduz o conceito de expressões, que é  uma combinação de valores, variáveis e operadores que o interpretador Python pode avaliar para produzir um novo valor. Exemplos incluem 1 + 1, x * 2, ou nome + sobrenome. A avaliação de expressões é um conceito central em Python, pois é assim que os dados são processados e manipulados.
+
+
+Também aborda sobre instruções, são unidades de código que o interpretador Python pode executar. Enquanto expressões produzem valores, instruções realizam ações. A instrução de atribuição é um exemplo de instrução, mas outras são mencionadas, como a instrução print(). A função print() é introduzida como uma forma de exibir valores na tela, sendo fundamental para depurar e fornecer saída aos usuários. O capítulo demonstra como imprimir valores de variáveis, literais e o resultado de expressões.

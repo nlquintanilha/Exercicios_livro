@@ -1,0 +1,3 @@
+Capítulo 4: Estudo de caso - Projeto de Interface Resumo do Capítulo 
+
+O capítulo 4 apresenta um estudo de caso focado no desenvolvimento de funções que trabalham em conjunto, usando o módulo turtle para criar gráficos. O capítulo demonstra conceitos fundamentais como encapsulamento (criar funções para organizar código), generalização (adicionar parâmetros para tornar funções mais flexíveis), e refatoração (reorganizar código para melhor legibilidade). Através de exemplos práticos de desenho de formas geométricas como quadrados, polígonos e círculos, o capítulo ensina como estruturar programas de forma modular, passando de código repetitivo para funções reutilizáveis e parametrizáveis, estabelecendo as bases para o design de interfaces e programação orientada a objetos
